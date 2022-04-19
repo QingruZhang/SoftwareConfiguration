@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"AdvancedNewFile",
+		"Anaconda",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"JsFormat",
+		"MarkdownEditing",
+		"MarkdownPreview",
+		"Package Control",
+		"Pretty JSON",
+		"SFTP",
+		"SublimeGit",
+		"SublimeREPL",
+		"Terminal",
+		"Verilog",
+		"WordCount"
+	],
+}

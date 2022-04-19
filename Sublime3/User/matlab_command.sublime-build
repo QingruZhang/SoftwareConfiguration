@@ -1,0 +1,6 @@
+{
+    "cmd": ["D:/Applications/MATLAB/R2017a/bin/matlab2017.exe", "-nodesktop", "-nosplash", "-r", "\"run('$file')\""],
+    "selector": "source.m",
+    "working_dir": "${project_path:${folder}}"
+}
+

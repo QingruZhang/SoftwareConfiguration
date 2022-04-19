@@ -1,0 +1,14 @@
+{
+	"python_interpreter":"D:/Applications/Anaconda3/python.exe",
+	"suppress_world_completions":true,
+	"suppress_explicit_completions":true,
+	"anaconda_linting": false,
+	"complete_parameters":false,
+	"complete_all_parameters": true,//自动补全函数时是否匹配所有参数  
+	
+	"suppress_word_completions": false,//禁止代码补全  
+	
+	"suppress_explicit_completions": false,//禁止精确补全  
+
+
+}
